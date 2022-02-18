@@ -144,7 +144,10 @@ main a:hover{
     color: var(--cor5);
 }
     
-
+main > picture{
+    margin:auto;
+    
+}
 main > img {
     width:100%;
 }
