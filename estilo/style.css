@@ -146,15 +146,15 @@ main a:hover{
     
 main > picture{
     margin:auto;
-    
+
 }
 main > img {
     width:100%;
 }
 
 main > img.pequena{
-    max-width: 350px;
     display:block;
+    max-width: 350px;
     margin: auto;
 }
 
